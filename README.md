@@ -6,6 +6,7 @@ This is a mobile application built using **React Native Expo**. It leverages **R
 - Built with **React Native Expo** for fast development and deployment.
 - **React Navigation** for smooth and intuitive navigation between screens.
 - Styled using **TailwindCSS (NativeWind)** for flexible and responsive UI.
+- **Formik and Yup** for validations of users data.
 - **Redux Toolkit** for state management.
 - **Redux Persist** for persisting application state across sessions.
 - **AsyncStorage** is used for local data storage.
